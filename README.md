@@ -3,7 +3,7 @@ Projeto 1 de Fundamentos da Programação (LEIC-A 24/25 - IST).
 
 O projeto consiste num [jogo do tipo MNK](https://en.wikipedia.org/wiki/M,n,k-game) desenvolvido em Python.
 
-Consulta o [Enunciado](github.com/afsc19) para mais informações.
+Consulta o [Enunciado](https://github.com/afsc19/JogoMNK-FP-1/blob/main/FP-2024-P1.pdf) para mais informações.
 
 # Correr o jogo
 Para correr o jogo, podem utilizar o Jogar.py.
