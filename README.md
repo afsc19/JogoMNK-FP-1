@@ -11,4 +11,6 @@ Para correr o jogo, podem utilizar o Jogar.py.
 # Testes
 Os testes contidos no ficheiro test_public.py são os testes públicos dados pelo professor.
 
+Os testes contidos no ficheiro test_private.py são os testes privados posteriormente publicados pelo professor.
+
 Os testes contidos no ficheiro test_cadete.py são os testes criados por mim.
