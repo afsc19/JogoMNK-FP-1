@@ -16,3 +16,6 @@ Os testes contidos no ficheiro [test_public.py](https://github.com/afsc19/JogoMN
 Os testes contidos no ficheiro [test_private.py](https://github.com/afsc19/JogoMNK-FP-1/blob/main/tests/test_private.py) são os testes privados posteriormente publicados pelo professor.
 
 Os testes contidos no ficheiro [test_cadete.py](https://github.com/afsc19/JogoMNK-FP-1/blob/main/tests/test_cadete.py) são os testes criados por mim.
+
+# Nota (0-20)
+ - 19.63
